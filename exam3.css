@@ -1,0 +1,590 @@
+*{
+    margin: 0px;
+}
+.own{
+    /* min-height: 100%; */
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(29, 28, 28);
+}
+.text2 a{
+    text-decoration: none;
+    color: black;
+}
+.text1{
+    background-color:white;
+    color:black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 60px;
+    width: 100%;
+    box-shadow: 0px 0px 10px rgb(104, 103, 103);
+    position: fixed ;
+}
+.box1{
+    width: 120px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.box1:hover{
+    background-color: rgb(182, 182, 182);
+    color: black;
+}
+.text1 a{
+    color:black;
+    text-decoration: none;
+}
+.text2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 20px;
+}
+.text2 span{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    padding: 0px 20px;
+}
+.text2 span:hover{
+    background-color:rgb(184, 182, 182);
+    color:black;
+}
+.text2 span i{
+    font-size: 15px;
+    margin-right: 5px;
+}
+.text3{
+    color: white;
+    padding-top:  10%;
+}
+.wowo{
+    padding: 48px;
+    font-size: 15px;
+}
+.text3 p{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 70px;
+    line-height: 1.8;
+}
+.text3 span{
+    margin-top: 10px;
+    display: flex;
+    font-size: 140%;
+}
+.button1{
+    margin-top: 16px;
+    padding: 12px;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    height: 50px;
+    background-color: rgb(167, 165, 165);
+    border: none;
+    outline: none;
+}
+.button1:hover{
+    background-color: rgb(236, 236, 236);
+}
+.silka i{
+    color: rgb(158, 157, 157);
+}
+.silka{
+    font-size: 18px;
+    padding-bottom: 40px; 
+    padding: 24px 48px;
+    padding-top: 7%;
+}
+.text4 h2{
+    margin: 140px 0px 30px 0px;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.text4 p{
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.photo1{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: baseline;
+    text-align: center;
+    padding: 70px 0px ;
+}
+.kartinka{
+    width: 22%;
+}
+.kartinka i{
+    font-size: 70px;
+}
+.kartinka p{
+    margin: 20px 0px;
+}.hpoto2{
+    width: 100%;
+    height: 200px;
+}
+.my1{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    margin-top: 210px;
+}
+.my2{
+    display: flex;
+    justify-content: center;
+    font-size:20px ;
+    margin: 20px;
+}
+.text5{
+    display: flex;
+    margin: 40px 40px;
+    gap: 20px;
+}
+.blek2{
+    width: 100%;
+    gap: 20px;
+    box-shadow: 0px 5px 10px rgb(153, 152, 152);
+    background-color: white;
+}
+.text5 h2{
+    margin: 20px 0px ;
+    display: flex;
+    justify-content: flex-start;
+    padding: 0px 10px;
+}
+.text5 h4{
+    margin-bottom: 20px;
+    color: rgb(172, 171, 171);
+    padding: 0px 10px;
+}
+.text5 span{
+    font-size: 18px ;
+    display: flex;
+    text-align: left;
+    padding: 0px 10px;
+}
+.text5 i{
+    display: flex;
+     margin-right: 8px;
+}
+.text5 p{
+    width: 93%;
+    height: 40px;
+    margin: 10px 10px;
+    font-size: 15px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(231, 229, 229);
+}
+.text5 p:hover{
+    background-color: rgb(182, 178, 178);
+}
+.text6{
+    margin: 130px 0px;
+    width: 100%;
+    height: 100%;
+    padding: 50px 0px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: grey;
+    color: white;
+}
+.number p{
+    display: flex;
+    justify-content: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px ;
+}
+.now{
+    font-size: 20px;
+}
+.vow{
+    margin-top: 20px;
+    font-size: 18px;
+}
+.yoho{
+    margin-top: 65px;
+    margin-bottom: 130px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.yoho img:active{
+    opacity: 0.5;
+}
+.text8{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    background-color: rgb(240, 238, 238);
+    padding-top: 70px;
+}
+.our{
+    width: 48%;
+}
+.my3{
+    display: flex;
+    justify-content: flex-start;
+    font-size: 30px;
+    margin: 0px 8px 30px 8px;
+}
+.my4{
+    display: block;
+    font-size: 20px;
+    margin: 20px 8px;
+} 
+.my5{
+    display: block;
+    font-size: 20px;
+    margin: 0px 8px 20px 8px;
+}
+.foiz{
+    width: 48%;
+    margin-bottom: 80px;
+    margin: 0px 8px;
+}
+.ramka{
+    margin:20px 0px;
+    height: 10px;
+    width: 82%;
+    background-color: rgb(104, 103, 103);
+    border: none;
+    outline: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+.ramka2{
+    margin: 20px 0px;
+    width: 8%;
+    height: 10px;
+    background-color: rgb(168, 168, 168); 
+    border: none;
+    outline: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.yra{
+    display: flex;
+}
+.foiz i{
+    margin-right: 10px;
+}
+.foiz span{
+    font-size: 20px;
+}
+.ramka3{
+    width: 75%;
+}
+.ramka5{
+    width: 15%;
+}
+.ramka4{
+    width: 60%;
+}
+.ramka6{
+    width: 30%;
+}
+.text9{
+    background-color: gray;
+}
+.my6{
+    display: block;
+    font-size: 25px;
+    color: white;
+    padding-top: 130px;
+    display: flex;
+    justify-content: center;
+}
+.my7{
+    display: block;
+    font-size: 18px;
+    color: white;
+    margin: 30px 0px 40px 0px ;
+    display: flex;
+    justify-content: center
+}
+.text10{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    padding-bottom: 130px;
+}
+.basic, .pro, .premium {
+    width: 31%;
+    margin-top: 20px;
+    background-color: white;
+}
+.basic1, .premium1{
+    width: 100%;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    background-color: rgb(10, 10, 10);
+    color: white;
+}
+.basic2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15px 0px;
+    font-size: 20px;
+}
+.basic3{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+}
+.basic4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(235, 234, 234);
+}
+.button{
+    margin: 20px 0px ;
+    width: 90px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    border: none;
+    outline: none;
+}
+.button:hover{
+    background-color:white;
+    color:black;
+    border: none;
+    outline: none;
+}
+.pro1{
+    width: 100%;
+    height: 120px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    color: white;
+}
+.button2{
+    margin: 20px 0px ;
+    width: 90px;
+    height: 40px;
+    background-color:black;
+    color: white;
+    border: none;
+    outline: none;
+}
+.button2:hover{
+    background-color:white;
+    color: black;
+    border: none;
+    outline: none;
+}
+.text11{
+    background-color: rgb(235, 234, 234);
+}
+.my8{
+    padding-top: 160px;
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+}
+.my9{
+    margin: 20px 0px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
+.my10{
+    display: block;
+    font-size: 18px;
+    justify-content: center;
+    align-items: end;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.my13 i{
+    margin-top: 20px;
+    margin-right: 20px;
+    font-size: 30px;
+    margin-left: 25px;
+}
+.my11 i{
+    margin-top: 25px;
+    margin-right: 20px;
+    font-size: 30px;
+    margin-left: 20px;
+}
+.my12 i{
+    margin-top: 20px;
+    margin-right: 20px;
+    font-size: 30px;
+    margin-left: 20px;
+}
+.input{
+    margin-top: 40px;
+    padding: 10px 20px;
+}
+.input input{
+     margin: 10px 0px ;
+    width: 99%;
+    height: 40px;
+    padding-left: 10px;
+    font-size: 16px;
+    outline: none;
+}
+.send{
+    margin: 0px 0px 40px 20px ;
+    width: 170px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    border: none;
+    outline: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+.send:hover{
+    background-color: rgb(179, 177, 177);
+    color: black;
+}
+.text12{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 100px;
+}
+.text12 img{
+    width: 97%;
+}
+.text13{
+    width: 100%;
+    height: 300px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.url{
+    font-size: 18px;
+}
+.url a{
+    color: white;
+}
+.button3{
+    width: 130px;
+    height: 40px;
+    font-size: 18px;
+    gap: 10px;
+    margin-top: 70px;
+}
+.button3 i{
+   margin-right: 10px;
+}
+.text13 a{
+    color: white;
+    text-decoration: none;
+}
+.silka1{
+    margin: 30px 0px ;
+    font-size: 25px;
+}
+@media(max-width:510px){
+    .text3{
+       /* padding-top: 50%; */
+        align-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+    .wowo{
+      align-content: center;
+      align-items: center;
+    }
+    .text3 p{
+        align-content: center;
+        font-size: 40px;
+        /* line-height: 1.8; */
+    }
+    .text3 span{
+        margin-top: 16px;
+        display: flex;
+        font-size: 130%;
+    }
+    .button1{
+        width: 100%;
+    }
+    .silka{
+        width: 40%;
+        padding: 24px 48px;
+        margin-top: 30%;
+    }
+    .text2{
+        display: none;
+    }
+    .photo1{
+        /* width: 98%; */
+        flex-direction: column;
+    }
+    .kartinka{
+        width: 97%;
+    }
+    .text5{
+        flex-direction: column;
+    }
+    .text6{
+        flex-direction: column;
+    }
+    .yoho img{
+        width: 90%;
+    }
+    .text8{
+        flex-direction: column;
+        padding: 0px 10px;
+    }
+    .our{
+        padding-top: 70px;
+        width: 95%;
+    }
+    .foiz{
+        justify-content: center;
+        width: 95%;
+        padding-bottom: 50px;
+    }
+    .yra{
+        align-items: center;
+        text-align: center;
+      width: 100%;
+    }
+    .text10{
+        flex-direction: column ;
+    }
+    .basic, .pro, .premium{
+        width: 95%;
+    }
+}
